@@ -42,6 +42,11 @@ Dimensionality Reduction: Achieved a 98% reduction in dimensions (from 7,000 to 
 Enhanced Interpretability: Developed interactive visualizations to support data-driven decision-making.
 
 📸 Visuals
+![image](https://github.com/user-attachments/assets/1a0949e0-6101-436e-8df9-7ae28545f696)
+
+
+
+
 
 📂 Repository Contents
 

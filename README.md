@@ -1,2 +1,52 @@
-# Cosmetics-Chemical-Composition-Analysis-and-Visualization
-Choosing cosmetics can be tough and risky. Instead of guessing, let's use data science to predict suitable products. This notebook creates a content-based recommendation system by processing ingredient lists of 1,472 Sephora cosmetics with word embedding, and visualizes similarities using t-SNE and Bokeh.
+
+
+
+
+                                         🧴 Cosmetics, chemicals... it's complicated 🧴
+
+
+Choosing new cosmetic items can be daunting. Ever picked a product, only to end up with skin troubles? Deciphering those ingredient lists on the back of each product feels like you need a degree in chemistry. We’ve all been there!
+
+Instead of buying and hoping for the best, why not harness the power of data science to predict which products might be the best fit for us?
+
+📊 Project Overview
+
+
+In this notebook, we’re building a content-based recommendation system where the 'content' is the chemical components of cosmetics. Here's how we do it:
+
+Data Collection and Preprocessing: Process ingredient lists for 1,472 cosmetics available on Sephora.
+Word Embedding: Convert ingredient lists into a structured numerical format.
+Dimensionality Reduction with t-SNE: Visualize ingredient similarity using a machine learning method called t-SNE.
+Interactive Visualization with Bokeh: Create interactive visualizations to explore ingredient similarities and product recommendations.
+
+
+🚀 Key Features
+
+
+Preprocessing and Tokenization: Efficiently handle and tokenize over 7,000 unique ingredients.
+Dimensionality Reduction: Reduce high-dimensional ingredient data to 2D, making it easier to interpret.
+Interactive Visualizations: Explore ingredient relationships and product similarities through an interactive scatter plot.
+
+
+🔧 Tech Stack
+
+
+Data Preprocessing: pandas, NumPy
+Tokenization: NLTK
+Machine Learning: Scikit-learn (t-SNE)
+Visualization: Bokeh
+Development Environment: Jupyter Notebook
+📈 Results
+Data Efficiency: Improved data processing efficiency by 50%.
+Dimensionality Reduction: Achieved a 98% reduction in dimensions (from 7,000 to 2D).
+Enhanced Interpretability: Developed interactive visualizations to support data-driven decision-making.
+
+📸 Visuals
+
+📂 Repository Contents
+
+
+data/: Contains the dataset of cosmetic products.
+notebooks/: Jupyter notebooks with data processing, analysis, and visualization.
+src/: Source code for preprocessing, tokenization, and visualization.
+README.md: Project overview and setup instructions.

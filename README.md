@@ -54,5 +54,4 @@ Enhanced Interpretability: Developed interactive visualizations to support data-
 
 data/: Contains the dataset of cosmetic products.
 notebooks/: Jupyter notebooks with data processing, analysis, and visualization.
-src/: Source code for preprocessing, tokenization, and visualization.
-README.md: Project overview and setup instructions.
+

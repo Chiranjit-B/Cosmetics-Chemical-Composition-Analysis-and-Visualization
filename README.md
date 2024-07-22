@@ -3,6 +3,7 @@
 
 
                                          🧴 Cosmetics, chemicals... it's complicated 🧴
+![image](https://github.com/user-attachments/assets/27356d19-0f9c-4b1e-85fa-0ec44c086f18)
 
 
 Choosing new cosmetic items can be daunting. Ever picked a product, only to end up with skin troubles? Deciphering those ingredient lists on the back of each product feels like you need a degree in chemistry. We’ve all been there!
